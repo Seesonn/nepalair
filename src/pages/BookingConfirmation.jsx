@@ -41,7 +41,7 @@ const BookingConfirmation = () => {
         },
         passengers: [
           {
-            name: "John Doe",
+            name: "Sisan Bhattarai",
             seat: "12A",
             type: "Adult",
           },
